@@ -1,7 +1,7 @@
 # Template
 
 
-Some Template
+Some Templates
 
 1/ https://github.com/TruongNX12/forestVacation
 
